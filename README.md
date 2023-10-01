@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prithwiraj Paul</h1>
 <h3 align="center">Passionate Roboticist and Software Engineer | Bridging theory and practice in Motion Planning, Control Systems, SLAM and Computer Vision | Dedicated to pushing the boundaries of Robotics</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/Massivesci-robots-ai-artificial-intelligence-WxJLwDBAXDsW1fqZ3v">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Massivesci-robots-ai-artificial-intelligence-WxJLwDBAXDsW1fqZ3v">
 
 - 🔭 I’m currently working on **Learning Robot Locomotion using Reinforcement Learning**
 
