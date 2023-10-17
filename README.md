@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prithwi12paul@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vl4B05GZfuU2JBhzjXHRINWH7B_fEAjR/view?usp=drive_link](https://drive.google.com/file/d/1Vl4B05GZfuU2JBhzjXHRINWH7B_fEAjR/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Vl4B05GZfuU2JBhzjXHRINWH7B_fEAjR/view?usp=drive_link)
 
 - ⚡ Fun fact **I can do the moonwalk! 🕺🌕**
 
